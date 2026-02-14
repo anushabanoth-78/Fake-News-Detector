@@ -5,19 +5,19 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 ---
 ## Table of Contents
 
-- [Overview](#overview)
-- [Demo Video](#demo)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Training the Model](#training-the-model)
-- [Evaluation & Charts](#evaluation--charts)
-- [How It Works](#how-it-works)
-- [Running the Streamlit App](#running-the-streamlit-app)
-- [Code Modules](#code-modules)
-- [Technologies Used](#technologies-used)
-- [Future Improvements](#future-improvements)
-
+- [Overview](#-overview)
+- [Demo Video](#-demo-video)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Dataset](#-dataset)
+- [Training the Model](#-training-the-model)
+- [Evaluation & Charts](#-evaluation--charts)
+- [How It Works](#-how-it-works)
+- [Running the Streamlit App](#-running-the-streamlit-app)
+- [Code Modules](#-code-modules)
+- [Technologies Used](#-technologies-used)
+- [Future Improvements](#-future-improvements)
+- [Project Author](#-project-author)
 
 
 ## Overview
@@ -34,6 +34,7 @@ This project also includes:
 ✓ Model evaluation with charts  
 ✓ Interactive Streamlit Web App  
 ✓ Modular and reusable project structure
+⬆️ [Back to Top](#-table-of-contents)
 ###  Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
 
@@ -41,6 +42,7 @@ This project also includes:
 
 ▶️ Watch Full Project Demo:  
 https://drive.google.com/file/d/1VVRmbsOYkUql4nt7nTk2N3dLETOrDUQS/view?usp=drive_link
+⬆️ [Back to Top](#-table-of-contents)
 
 ## 📂 Project Structure
 
@@ -79,6 +81,7 @@ Fake-News-Detector/
 ├── .gitignore
 └── README.md
 ---
+⬆️ [Back to Top](#-table-of-contents)
 
 
 ## Install Dependencies

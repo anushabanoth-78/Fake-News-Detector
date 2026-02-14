@@ -35,16 +35,20 @@ This project also includes:
 ✓ Interactive Streamlit Web App  
 ✓ Modular and reusable project structure
 
-###  Detector
+## Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
 
-### Demo Video
+<a id="demo-video"></a>
+## Demo Video
+
 
 ▶️ Watch Full Project Demo:  
 https://drive.google.com/file/d/1VVRmbsOYkUql4nt7nTk2N3dLETOrDUQS/view?usp=drive_link
 
 
+<a id="project-structure"></a>
 ## 📂 Project Structure
+
 
 ```bash
 Fake-News-Detector/
@@ -83,6 +87,8 @@ Fake-News-Detector/
 ---
 ⬆️ [Back to Top](#-table-of-contents)
 
+<a id="installation"></a>
+## ⚙️ Installation
 
 ## Install Dependencies
 ```bash
@@ -93,8 +99,9 @@ Or install manually:
 ```bash
 pip install pandas numpy scikit-learn matplotlib streamlit joblib
 ```
+<a id="dataset"></a>
+## 📊 Dataset
 
-## Dataset
 
 | File | Type | Rows | Columns |
 |------|------|------|----------|
@@ -110,7 +117,9 @@ pip install pandas numpy scikit-learn matplotlib streamlit joblib
 
 <img width="900" alt="run_fvs_cvs" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/run_fvs_cvs.png" />
 
-## Training the Model
+<a id="training-the-model"></a>
+##  Training the Model
+
 
 Run the following command from the project root:
 
@@ -131,7 +140,9 @@ This script will:
 
 ---
 
-## Evaluation & Charts
+<a id="evaluation-charts"></a>
+## 📈 Evaluation & Charts
+
 
 After training, the model achieves **perfect classification accuracy** on this dataset.
 
@@ -179,7 +190,9 @@ Both precision and recall reach **1.00**, meaning zero false predictions.
 
 
 
-## How It Works
+<a id="how-it-works"></a>
+##  How It Works
+
 
 ### Pipeline Overview
 1. **Text Cleaning** → Remove punctuation, URLs, emails, non-ASCII chars.  
@@ -200,7 +213,9 @@ Label: FAKE | Fake probability: 32.0% | Threshold: 0.50
 
 ---
 
-## Running the Streamlit App
+<a id="running-the-streamlit-app"></a>
+##  Running the Streamlit App
+
 
 ### Launch the App
 ```bash
@@ -224,7 +239,9 @@ Network URL: http://10.196.40.168:8501
 
 ---
 
-## Code Modules
+<a id="code-modules"></a>
+##  Code Modules
+
 
 | Module | Purpose |
 |---------|----------|
@@ -236,7 +253,9 @@ Network URL: http://10.196.40.168:8501
 
 ---
 
+<a id="technologies-used"></a>
 ## Technologies Used
+
 
 - **Python 3.10+**
 - **scikit-learn** → TF-IDF Vectorizer, Logistic Regression  
@@ -247,13 +266,17 @@ Network URL: http://10.196.40.168:8501
 
 ---
 
-## Future Improvements
+<a id="future-improvements"></a>
+##  Future Improvements
+
 - Integrate **BERT / DistilBERT** for contextual language understanding  
 - Extend dataset for **multi-language** fake news detection  
 - Add **Explainable AI** (LIME / SHAP) for model transparency  
 - Deploy live on **Streamlit Cloud** or **Hugging Face Spaces**
 
-## 👩‍💻 Project Author
+<a id="project-author"></a>
+##  Project Author
+
 
 **Banoth Anusha**
 Final Year B.Tech — Computer Science & Engineering

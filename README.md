@@ -19,6 +19,8 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 - [Future Improvements](#-future-improvements)
 - [Project Author](#-project-author)
 
+<a id="overview"></a>
+## 🔍 Overview
 
 ## Overview
 
@@ -34,7 +36,7 @@ This project also includes:
 ✓ Model evaluation with charts  
 ✓ Interactive Streamlit Web App  
 ✓ Modular and reusable project structure
-⬆️ [Back to Top](#-table-of-contents)
+
 ###  Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
 
@@ -42,7 +44,7 @@ This project also includes:
 
 ▶️ Watch Full Project Demo:  
 https://drive.google.com/file/d/1VVRmbsOYkUql4nt7nTk2N3dLETOrDUQS/view?usp=drive_link
-⬆️ [Back to Top](#-table-of-contents)
+
 
 ## 📂 Project Structure
 

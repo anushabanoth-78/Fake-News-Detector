@@ -37,8 +37,9 @@ This project also includes:
 ✓ Interactive Streamlit Web App  
 ✓ Modular and reusable project structure
 
-## Detector
+### Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
+
 ⬆️ [Back to Top](#table-of-contents)
 
 

@@ -136,8 +136,8 @@ This script will:
 
 After training, the model achieves **perfect classification accuracy** on this dataset.
 
-### Confusion Matrix
-<img width="1050" height="900" alt="confusion_matrix" src="https://github.com/anushabanoth-78/Fake-News-Detector/blob/main/outputs/metrics.json" />
+View the model metrics [here](https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/metrics.json)
+
 
 | True Label | Predicted REAL | Predicted FAKE |
 |-------------|----------------|----------------|

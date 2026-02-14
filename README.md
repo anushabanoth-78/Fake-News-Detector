@@ -3,25 +3,23 @@
 Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **Logistic Regression**, complete with training scripts, evaluation charts, and an interactive **Streamlit web app**.
 
 ---
+## Table of Contents
 
-##  Table of Contents
+- [Overview](#overview)
+- [Demo](#demo)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Dataset](#dataset)
+- [Training the Model](#training-the-model)
+- [Evaluation & Charts](#evaluation--charts)
+- [How It Works](#how-it-works)
+- [Running the Streamlit App](#running-the-streamlit-app)
+- [Code Modules](#code-modules)
+- [Technologies Used](#technologies-used)
+- [Future Improvements](#future-improvements)
 
-- [ Overview](#-overview)
-- [ Demo](#-demo)
-- [📂 Project Structure](#-project-structure)
-- [ Installation](#️-installation)
-- [ Dataset](#-dataset)
-- [ Training the Model](#️-training-the-model)
-- [ Evaluation & Charts](#-evaluation--charts)
-- [ How It Works](#-how-it-works)
-- [ Running the Streamlit App](#-running-the-streamlit-app)
-- [ Code Modules](#-code-modules)
-- [Technologies Used](#️-technologies-used)
-- [ Future Improvements](#-future-improvements)
 
----
-
-## 📖 Overview
+## Overview
 
 The **Fake News & Misinformation Detector** is a complete end-to-end **Natural Language Processing (NLP)** project that classifies news headlines and articles as **REAL** or **FAKE**.
 
@@ -35,7 +33,7 @@ This project also includes:
 ✓ Model evaluation with charts  
 ✓ Interactive Streamlit Web App  
 ✓ Modular and reusable project structure  
-### 🎥 Demo Video
+### Demo Video
 
 ▶️ Watch Full Project Demo:  
 https://drive.google.com/file/d/1VVRmbsOYkUql4nt7nTk2N3dLETOrDUQS/view?usp=drive_link
@@ -77,11 +75,11 @@ Fake-News-Detector/
 ├── .gitignore
 └── README.md
 
-# 🖥️ Streamlit Web App Demo Screenshot
+# Streamlit Web App Demo Screenshot
 
 When launched, the app allows you to paste or type any news headline or paragraph and analyze its credibility in real time.
 
-📌 **Features**
+ **Features**
 - Prediction: REAL / FAKE
 - Probability visualization
 - Adjustable FAKE detection threshold

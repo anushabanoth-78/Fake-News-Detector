@@ -5,6 +5,8 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 ---
 ## Table of Contents
 
+## Table of Contents
+
 - [Overview](#overview)
 - [Demo](#demo)
 - [Project Structure](#project-structure)
@@ -17,6 +19,7 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 - [Code Modules](#code-modules)
 - [Technologies Used](#technologies-used)
 - [Future Improvements](#future-improvements)
+
 
 
 ## Overview

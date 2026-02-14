@@ -39,6 +39,8 @@ This project also includes:
 
 ## Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
+⬆️ [Back to Top](#table-of-contents)
+
 
 <a id="demo-video"></a>
 ## Demo Video
@@ -47,6 +49,7 @@ This project also includes:
 ▶️ Watch Full Project Demo:  
 https://drive.google.com/file/d/1VVRmbsOYkUql4nt7nTk2N3dLETOrDUQS/view?usp=drive_link
 
+⬆️ [Back to Top](#table-of-contents)
 
 <a id="project-structure"></a>
 ## 📂 Project Structure
@@ -88,7 +91,9 @@ Fake-News-Detector/
 └── README.md
 ---
 ```
-⬆️ [Back to Top](#-table-of-contents)
+⬆️ [Back to Top](#table-of-contents)
+
+
 
 <a id="installation"></a>
 ## ⚙️ Installation

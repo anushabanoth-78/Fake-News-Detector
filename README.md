@@ -175,7 +175,6 @@ After training, the model achieves **perfect classification accuracy** on this d
 The model correctly classified all 1,998 samples.
 
 ---
-⬆️ [Back to Top](#table-of-contents)
 
 
 ### ROC Curve
@@ -315,6 +314,7 @@ This Fake News Detector project demonstrates end-to-end ML pipeline development 
 Goa
 
 📧 banoth.anusha.22031@iitgoa.ac.in
+###
 ⬆️ [Back to Top](#table-of-contents)
 
 

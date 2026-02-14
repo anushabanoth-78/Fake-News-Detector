@@ -36,8 +36,6 @@ This project also includes:
 ✓ Modular and reusable project structure
 ###  Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
-###  Detector
-<img width="800" alt="bakeing" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/bakeing.png" />
 
 ### Demo Video
 
@@ -192,8 +190,10 @@ Both precision and recall reach **1.00**, meaning zero false predictions.
 
 Output:
 ```
-Label: FAKE | Fake probability: 0.560 | Threshold: 0.40
+Label: FAKE | Fake probability: 32.0% | Threshold: 0.50
 ```
+###  Detector
+<img width="800" alt="bakeing" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/bakeing.png" />
 
 ---
 

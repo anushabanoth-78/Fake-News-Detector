@@ -34,8 +34,10 @@ This project also includes:
 ✓ Model evaluation with charts  
 ✓ Interactive Streamlit Web App  
 ✓ Modular and reusable project structure
-### Confusion Matrix
+###  Detector
 <img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
+### Fake News Detector
+<img width="800" alt="bakeing" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/bakeing.png" />
 
 ### Demo Video
 

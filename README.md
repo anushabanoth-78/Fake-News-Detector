@@ -231,6 +231,7 @@ Label: FAKE | Fake probability: 32.0% | Threshold: 0.50
 
 ---
 
+⬆️ [Back to Top](#table-of-contents)
 
 
 <a id="running-the-streamlit-app"></a>
@@ -250,7 +251,7 @@ Network URL: http://10.196.40.168:8501
 ### Run Command Screenshot
 
 <img width="900" alt="run command screenshot" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/run%20command%20.png" />
-⬆️ [Back to Top](#table-of-contents)
+
 
 
 ### App Features

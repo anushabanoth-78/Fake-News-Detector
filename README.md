@@ -23,6 +23,10 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 
 <a id="overview"></a>
 ## 🔍 Overview
+
+
+# 📰 Fake News & Misinformation Detector
+
 ## 🚀 Live Demo
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?logo=streamlit)](https://fake-news-detector-mtehccappl5kvfmycnu63vq.streamlit.app/)
 

@@ -3,21 +3,23 @@
 Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **Logistic Regression**, complete with training scripts, evaluation charts, and an interactive **Streamlit web app**.
 
 ---
+<a id="table-of-contents"></a>
+
 ## Table of Contents
 
-- [Overview](#-overview)
-- [Demo Video](#-demo-video)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Dataset](#-dataset)
-- [Training the Model](#-training-the-model)
-- [Evaluation & Charts](#-evaluation--charts)
-- [How It Works](#-how-it-works)
-- [Running the Streamlit App](#-running-the-streamlit-app)
-- [Code Modules](#-code-modules)
-- [Technologies Used](#-technologies-used)
-- [Future Improvements](#-future-improvements)
-- [Project Author](#-project-author)
+- [Overview](#overview)
+- [Demo Video](#demo-video)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Dataset](#dataset)
+- [Training the Model](#training-the-model)
+- [Evaluation & Charts](#evaluation-charts)
+- [How It Works](#how-it-works)
+- [Running the Streamlit App](#running-the-streamlit-app)
+- [Code Modules](#code-modules)
+- [Technologies Used](#technologies-used)
+- [Future Improvements](#future-improvements)
+- [Project Author](#project-author)[Project Author](#-project-author)
 
 <a id="overview"></a>
 ## 🔍 Overview

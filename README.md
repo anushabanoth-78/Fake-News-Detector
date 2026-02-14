@@ -22,8 +22,6 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 <a id="overview"></a>
 ## 🔍 Overview
 
-## Overview
-
 The **Fake News & Misinformation Detector** is a complete end-to-end **Natural Language Processing (NLP)** project that classifies news headlines and articles as **REAL** or **FAKE**.
 
 It combines:

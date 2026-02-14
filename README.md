@@ -97,9 +97,9 @@ Fake-News-Detector/
 
 
 <a id="installation"></a>
-## ⚙️ Installation
+### ⚙️ Installation
 
-## Install Dependencies
+### Install Dependencies
 ---bash
 pip install -r requirements.txt
 
@@ -108,6 +108,8 @@ Or install manually:
 ```bash
 pip install pandas numpy scikit-learn matplotlib streamlit joblib
 ```
+⬆️ [Back to Top](#table-of-contents)
+
 <a id="dataset"></a>
 ## 📊 Dataset
 
@@ -125,6 +127,8 @@ pip install pandas numpy scikit-learn matplotlib streamlit joblib
 > ### Run False vs Correct Visual Screenshot
 
 <img width="900" alt="run_fvs_cvs" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/run_fvs_cvs.png" />
+⬆️ [Back to Top](#table-of-contents)
+
 
 <a id="training-the-model"></a>
 ##  Training the Model
@@ -148,6 +152,8 @@ This script will:
    - Performance charts (`confusion_matrix.png`, `roc_curve.png`, `pr_curve.png`)
 
 ---
+⬆️ [Back to Top](#table-of-contents)
+
 
 <a id="evaluation-charts"></a>
 ## 📈 Evaluation & Charts
@@ -169,6 +175,8 @@ After training, the model achieves **perfect classification accuracy** on this d
 The model correctly classified all 1,998 samples.
 
 ---
+⬆️ [Back to Top](#table-of-contents)
+
 
 ### ROC Curve
 
@@ -197,6 +205,7 @@ Both precision and recall reach **1.00**, meaning zero false predictions.
 | F1-Score | 1.00 |
 | ROC-AUC | 1.00 |
 
+⬆️ [Back to Top](#table-of-contents)
 
 
 <a id="how-it-works"></a>
@@ -239,6 +248,8 @@ Network URL: http://10.196.40.168:8501
 ### Run Command Screenshot
 
 <img width="900" alt="run command screenshot" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/run%20command%20.png" />
+⬆️ [Back to Top](#table-of-contents)
+
 
 ### App Features
 - Paste any headline or paragraph  
@@ -247,6 +258,8 @@ Network URL: http://10.196.40.168:8501
 - See model file locations and loaded status in sidebar  
 
 ---
+
+⬆️ [Back to Top](#table-of-contents)
 
 <a id="code-modules"></a>
 ##  Code Modules
@@ -261,6 +274,7 @@ Network URL: http://10.196.40.168:8501
 | `streamlit_app.py` | Streamlit web app for interactive user testing |
 
 ---
+⬆️ [Back to Top](#table-of-contents)
 
 <a id="technologies-used"></a>
 ## Technologies Used
@@ -274,6 +288,7 @@ Network URL: http://10.196.40.168:8501
 - **Streamlit** → Web interface  
 
 ---
+⬆️ [Back to Top](#table-of-contents)
 
 <a id="future-improvements"></a>
 ##  Future Improvements
@@ -282,6 +297,8 @@ Network URL: http://10.196.40.168:8501
 - Extend dataset for **multi-language** fake news detection  
 - Add **Explainable AI** (LIME / SHAP) for model transparency  
 - Deploy live on **Streamlit Cloud** or **Hugging Face Spaces**
+- ⬆️ [Back to Top](#table-of-contents)
+
 
 <a id="project-author"></a>
 ##  Project Author
@@ -298,4 +315,6 @@ This Fake News Detector project demonstrates end-to-end ML pipeline development 
 Goa
 
 📧 banoth.anusha.22031@iitgoa.ac.in
+⬆️ [Back to Top](#table-of-contents)
+
 

@@ -260,3 +260,7 @@ Passionate about Machine Learning, AI, and building real-world data-driven appli
 This Fake News Detector project demonstrates end-to-end ML pipeline development including data preprocessing, model training, evaluation, and deployment with Streamlit.
 
 🔗 GitHub: https://github.com/anushabanoth-78
+Goa
+
+📧 banoth.anusha.22031@iitgoa.ac.in
+

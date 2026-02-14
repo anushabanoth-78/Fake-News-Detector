@@ -152,7 +152,9 @@ The model correctly classified all 1,998 samples.
 ---
 
 ### ROC Curve
-<img width="1050" height="900" alt="roc_curve" src="https://github.com/user-attachments/assets/a1b60b15-69f3-4440-ade5-92346731ffa9" />
+
+<img width="1050" alt="roc_curve" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/roc_curve.png" />
+
 
 The ROC curve touches the top-left corner  **AUC = 1.00**  
 Perfect separability between classes.
@@ -160,7 +162,8 @@ Perfect separability between classes.
 ---
 
 ### Precision–Recall Curve
-<img width="1050" height="900" alt="pr_curve" src="https://github.com/user-attachments/assets/a0786968-55f4-40ad-92ca-6684e0312e50" />
+
+<img width="1050" alt="pr_curve" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/pr_curve.png" />
 
 Both precision and recall reach **1.00**, meaning zero false predictions.
 

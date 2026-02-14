@@ -82,6 +82,7 @@ Fake-News-Detector/
 └── README.md
 ---
 
+
 ## Install Dependencies
 ```bash
 pip install -r requirements.txt
@@ -103,6 +104,10 @@ pip install pandas numpy scikit-learn matplotlib streamlit joblib
 > This project uses and modifies the [*Fake and Real News Dataset*](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) by **Clément Bisaillon** (Kaggle).  
 > Data was cleaned, header-fixed, and **downsampled to 999 REAL and 999 FAKE** news articles for balanced training and clear visualization.  
 > Used purely for **educational and research** purposes.
+> ### Run False vs Correct Visual Screenshot
+
+<img width="900" alt="run_fvs_cvs" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/run_fvs_cvs.png" />
+
 
 ---
 
@@ -205,8 +210,10 @@ Then open the local web interface:
 ```
 Local URL: http://localhost:8501
 Network URL: http://10.196.40.168:8501
-
 ```
+### Run Command Screenshot
+
+<img width="900" alt="run command screenshot" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/run%20command%20.png" />
 
 ### App Features
 - Paste any headline or paragraph  

@@ -204,6 +204,7 @@ Both precision and recall reach **1.00**, meaning zero false predictions.
 | F1-Score | 1.00 |
 | ROC-AUC | 1.00 |
 
+
 ⬆️ [Back to Top](#table-of-contents)
 
 
@@ -229,6 +230,8 @@ Label: FAKE | Fake probability: 32.0% | Threshold: 0.50
 <img width="800" alt="bakeing" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/bakeing.png" />
 
 ---
+
+⬆️ [Back to Top](#table-of-contents)
 
 <a id="running-the-streamlit-app"></a>
 ##  Running the Streamlit App
@@ -258,7 +261,7 @@ Network URL: http://10.196.40.168:8501
 
 ---
 
-⬆️ [Back to Top](#table-of-contents)
+
 
 <a id="code-modules"></a>
 ##  Code Modules

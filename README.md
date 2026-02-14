@@ -23,6 +23,9 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 
 <a id="overview"></a>
 ## 🔍 Overview
+## 🚀 Live Demo
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?logo=streamlit)](https://fake-news-detector-mtehccappl5kvfmycnu63vq.streamlit.app/)
+
 
 The **Fake News & Misinformation Detector** is a complete end-to-end **Natural Language Processing (NLP)** project that classifies news headlines and articles as **REAL** or **FAKE**.
 
@@ -47,7 +50,8 @@ This project also includes:
 ### Demo Video
 
 
-▶️ Watch Full Project Demo:  
+▶️ Watch Full Project Demo: 
+
 https://drive.google.com/file/d/1VVRmbsOYkUql4nt7nTk2N3dLETOrDUQS/view?usp=drive_link
 
 ⬆️ [Back to Top](#table-of-contents)

@@ -80,12 +80,9 @@ Fake-News-Detector/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+---
 
-
-
-
-
-### Install Dependencies
+## Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -94,8 +91,6 @@ Or install manually:
 ```bash
 pip install pandas numpy scikit-learn matplotlib streamlit joblib
 ```
-
----
 
 ## Dataset
 

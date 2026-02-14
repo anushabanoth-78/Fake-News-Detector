@@ -231,7 +231,7 @@ Label: FAKE | Fake probability: 32.0% | Threshold: 0.50
 
 ---
 
-⬆️ [Back to Top](#table-of-contents)
+
 
 <a id="running-the-streamlit-app"></a>
 ##  Running the Streamlit App

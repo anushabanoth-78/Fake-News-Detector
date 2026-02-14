@@ -33,7 +33,10 @@ This project also includes:
 
 ✓ Model evaluation with charts  
 ✓ Interactive Streamlit Web App  
-✓ Modular and reusable project structure  
+✓ Modular and reusable project structure
+### Confusion Matrix
+<img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
+
 ### Demo Video
 
 ▶️ Watch Full Project Demo:  
@@ -76,20 +79,9 @@ Fake-News-Detector/
 ├── .gitignore
 └── README.md
 
-# Streamlit Web App Demo Screenshot
 
-When launched, the app allows you to paste or type any news headline or paragraph and analyze its credibility in real time.
 
- **Features**
-- Prediction: REAL / FAKE
-- Probability visualization
-- Adjustable FAKE detection threshold
 
-### Confusion Matrix
-
-<img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
-
-```
 
 ### Install Dependencies
 ```bash

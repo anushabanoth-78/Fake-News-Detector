@@ -87,15 +87,16 @@ Fake-News-Detector/
 ├── .gitignore
 └── README.md
 ---
+```
 ⬆️ [Back to Top](#-table-of-contents)
 
 <a id="installation"></a>
 ## ⚙️ Installation
 
 ## Install Dependencies
-```bash
+---bash
 pip install -r requirements.txt
-```
+
 
 Or install manually:
 ```bash

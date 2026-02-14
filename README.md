@@ -87,6 +87,8 @@ When launched, the app allows you to paste or type any news headline or paragrap
 - Probability visualization
 - Adjustable FAKE detection threshold
 
+### Confusion Matrix
+<img width="1050" height="900" alt="confusion_matrix" src="https://github.com/anushabanoth-78/Fake-News-Detector/blob/main/outputs/nasa.png?raw=true" />
 
 
 ```

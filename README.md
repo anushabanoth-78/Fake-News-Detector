@@ -5,8 +5,6 @@ Detect fake vs real news articles using **Machine Learning**, **TF-IDF**, and **
 ---
 ## Table of Contents
 
-## Table of Contents
-
 - [Overview](#overview)
 - [Demo Video](#demo)
 - [Project Structure](#project-structure)
@@ -88,8 +86,8 @@ When launched, the app allows you to paste or type any news headline or paragrap
 - Adjustable FAKE detection threshold
 
 ### Confusion Matrix
-<img width="1050" height="900" alt="confusion_matrix" src="https://github.com/anushabanoth-78/Fake-News-Detector/blob/main/outputs/nasa.png?raw=true" />
 
+<img width="1050" height="900" alt="confusion_matrix" src="https://raw.githubusercontent.com/anushabanoth-78/Fake-News-Detector/main/outputs/nasa.png" />
 
 ```
 

@@ -250,4 +250,13 @@ Network URL: http://10.196.40.168:8501
 - Add **Explainable AI** (LIME / SHAP) for model transparency  
 - Deploy live on **Streamlit Cloud** or **Hugging Face Spaces**
 
-## BANOTH ANUSHA 
+## 👩‍💻 Project Author
+
+**Banoth Anusha**
+Final Year B.Tech — Computer Science & Engineering
+Indian Institute of Technology Goa
+
+Passionate about Machine Learning, AI, and building real-world data-driven applications.
+This Fake News Detector project demonstrates end-to-end ML pipeline development including data preprocessing, model training, evaluation, and deployment with Streamlit.
+
+🔗 GitHub: https://github.com/anushabanoth-78

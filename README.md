@@ -314,7 +314,6 @@ Network URL: http://10.196.40.168:8501
 <a id="project-author"></a>
 ##  Project Author
 
-
 **Banoth Anusha**
 Final Year B.Tech — Computer Science & Engineering
 Indian Institute of Technology Goa
